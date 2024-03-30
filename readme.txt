@@ -1,0 +1,1 @@
+Repositorio que contiene las diferentes entregas de los laboratorios de la asignatura Laboratorio de Computación científica para Ciencia de Datos, de magister en ciencia de datos (MDS) de la facultad de ciencias físicas y matemáticas de la u. de chile 
